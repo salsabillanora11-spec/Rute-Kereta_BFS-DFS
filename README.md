@@ -1,4 +1,4 @@
-**Simulasi Navigasi Jalur KRL Jabodetabek Menggunakan Algoritma BFS dan DFS Berbasis Graph**
+## Simulasi Navigasi Jalur KRL Jabodetabek Menggunakan Algoritma BFS dan DFS Berbasis Graph
 
 ## Deskripsi Proyek
 Proyek ini merupakan implementasi algoritma Breadth-First Search (BFS) dan Depth-First Search (DFS) pada simulasi jaringan KRL Jabodetabek menggunakan representasi graph berbasis adjacency list. Program menyediakan fitur eksperimen BFS dan DFS untuk membandingkan pola traversal serta waktu eksekusi algoritma. Selain itu, program juga dilengkapi dengan fitur pencarian rute antar stasiun dan visualisasi graph menggunakan NetworkX dan Matplotlib. Proyek ini dikembangkan sebagai tugas Ujian Akhir Semester (UAS) mata kuliah Struktur Data dan Algoritma Program Studi Sains Data.
