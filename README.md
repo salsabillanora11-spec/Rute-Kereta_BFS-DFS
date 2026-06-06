@@ -25,7 +25,7 @@ pip install -r requirements.txt
 2.	Jalankan program Python:
 python PROJECT_SDA_KEL-6.py
 
-## Library yang Digunakan**
+## Library yang Digunakan
 -	NetworkX
 -	Matplotlib
 
